@@ -1,0 +1,12 @@
+fire detection 
+
+process depth 
+
+takes a rgb image and converts it to a format that midas model accept as input shape
+since midas model trained to produce different kind of output we have to resize the image to its orignal size
+this format is pytorch array we have to convert to a data type that we can work with python datatypes
+so it converts the depth map into a numpy. with torch.no_grad() MEANS not tracking the gradients speeds up the computation
+
+loads the image using opencv to draw shelf and fire detected areas with probabilities scores and their respective classes
+
+we are getting the image shape to retreive it dimensions and locate the center of the image to measure the x cordinates and 

@@ -142,6 +142,8 @@ Visual mapping of routes over warehouse layouts.
 
 Time and energy-efficient order fulfillment through optimal navigation paths.
 
+![image](https://github.com/user-attachments/assets/6380de79-709e-43a7-ac68-988aa2460e1a)
+
 ## Technologies and Dependencies
 
 ### Frontend

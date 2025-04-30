@@ -21,7 +21,13 @@ problems
 
 • Stock Instabilities: How to predict incidents
 which address sudden movements in stock,
-leading to undetected inventory issues ?
+leading to undetected inventory issues 
+
+System Diagram
+
+![Uploading Blank diagram (3).png…]()
+
+
 # Technologies and dependencies
 
 Python

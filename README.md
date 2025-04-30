@@ -142,6 +142,8 @@ Visual mapping of routes over warehouse layouts.
 
 Time and energy-efficient order fulfillment through optimal navigation paths.
 
+## Component Diagram
+
 ![image](https://github.com/user-attachments/assets/6380de79-709e-43a7-ac68-988aa2460e1a)
 
 ## Technologies and Dependencies
@@ -179,6 +181,9 @@ Configurable threshold-based alerts for deviations in inbound/outbound patterns.
 Visual mapping of anomalies on digital warehouse layouts.
 
 Automated notifications to relevant personnel via multiple channels (email/SMS).
+
+## Component Diagram
+![image](https://github.com/user-attachments/assets/28bf3fb2-d893-42fe-b50e-ac1d2b658e8c)
 
 ## Technologies and Dependencies
 

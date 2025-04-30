@@ -8,14 +8,17 @@ https://github.com/IT21822094/Optimized-Warehouse-Management-System
 # Research problem
 • Limited Fire Detection: How can we provide
 real-time fire alerts near critical areas like racks,
-hindering rapid response ?
+hindering rapid response 
+
 • Inefficient Space Utilization: Lack of intelligent
 systems for dynamically optimizing warehouse
 space leads to inefficiencies. How can we
-address that ?
+address that 
+
 • Route Inefficiency: How can we save time and
 energy by minimizing warehouse route
-problems ?
+problems 
+
 • Stock Instabilities: How to predict incidents
 which address sudden movements in stock,
 leading to undetected inventory issues ?

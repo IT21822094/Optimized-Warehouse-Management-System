@@ -89,7 +89,7 @@ Torch: AI model deployment for fire detection and severity classification.
 Albumentations: Advanced data augmentation library for enhancing image data used in model training.
 
 Flask: Used for API management to integrate the backend and trigger real-time alerts.
-
+---------------------------------------------------------------------------------------------------------------------
 ### IT21822780 | Abeydeera A A A S (maximize space utilization.)
 
 ## Description

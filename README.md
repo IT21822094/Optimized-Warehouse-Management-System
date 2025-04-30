@@ -124,3 +124,38 @@ architecture supports integration with warehouse layout databases.
 NumPy: For numerical computations in volume calculations and placement algorithms.
 Matplotlib: For real-time and animated 2D visualizations of the storage arrangement.
 Pandas: For managing product data and CBM information during arrangement decisions.
+------------------------------------------------------------------------------------------------
+### IT21079672 | Palihena P.D.M.P (Order picking route optimization)
+
+## Description
+The Order Picking Route Optimization system aims to minimize the time and effort spent by workers in retrieving items across warehouse floors. By applying real-time pathfinding algorithms, the system generates the most efficient route for each picking task. It dynamically adjusts to warehouse conditions such as obstacles, ongoing operations, and congestion, improving safety, reducing operational delays, and increasing overall productivity.
+
+## Features
+Real-time route planning for order pickers and forklifts.
+
+Dynamic path adjustment in response to live worker and vehicle positions.
+
+Collision and congestion avoidance using GPS and obstacle data.
+
+Visual mapping of routes over warehouse layouts.
+
+Time and energy-efficient order fulfillment through optimal navigation paths.
+
+## Technologies and Dependencies
+
+### Frontend
+Matplotlib: Used to visually represent optimal routes and simulate navigation paths through the warehouse.
+
+### Backend
+Python: Core language for implementing pathfinding algorithms and backend logic.
+Google OR-Tools: Used to solve routing problems such as the Traveling Salesman Problem (TSP).
+Customized A* Algorithm: Tailored pathfinding algorithm for real-time route optimization under constraints.
+
+### Services
+AWS Lambda: Enables scalable cloud-based route computations and updates.
+Google Maps/GPS Integration (if used): For real-time location tracking of workers and forklifts.
+
+### Libraries
+NumPy: For grid-based route calculations and matrix representations of warehouse layouts.
+Flask: To expose backend services and API endpoints for frontend-to-backend communication.
+PostgreSQL: Stores warehouse layouts, order information, and route history for analysis.

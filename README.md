@@ -108,6 +108,10 @@ Systematic placement strategy to improve accessibility and retrieval efficiency.
 
 Intelligent vertical and horizontal space utilization analysis.
 
+## Component Diagram
+
+![Blank board](https://github.com/user-attachments/assets/c0f65fe3-b3e3-410b-a8d9-1cc49b3f69cb)
+
 ## Technologies and Dependencies
 
 ### Frontend

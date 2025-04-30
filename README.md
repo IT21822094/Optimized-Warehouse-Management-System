@@ -25,7 +25,8 @@ leading to undetected inventory issues
 
 # System Diagram
 
-![Blank diagram (3)](https://github.com/user-attachments/assets/d3ad61a2-0429-490c-b182-58b47bcdcf1a)
+![Uploading Blank diagram (4).png…]()
+
 
 
 

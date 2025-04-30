@@ -22,3 +22,14 @@ problems
 • Stock Instabilities: How to predict incidents
 which address sudden movements in stock,
 leading to undetected inventory issues ?
+# Technologies and dependencies
+
+Python
+Matplotlib
+OR-Tools
+YOLOv8
+PyTorch
+OpenCV
+AWS Lambda
+Google OR
+PostgreSQL

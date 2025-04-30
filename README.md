@@ -41,3 +41,5 @@ AWS Lambda
 Google OR
 
 PostgreSQL
+# Individual contribution
+IT21822094 | P.A.S.Tharana (Fire detection using computer vision and AI)

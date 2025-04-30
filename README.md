@@ -160,3 +160,41 @@ Google Maps/GPS Integration (if used): For real-time location tracking of worker
 NumPy: For grid-based route calculations and matrix representations of warehouse layouts.
 Flask: To expose backend services and API endpoints for frontend-to-backend communication.
 PostgreSQL: Stores warehouse layouts, order information, and route history for analysis.
+
+--------------------------------------------------------------------------------------------------------
+###  IT21318184 | Silva V S  (stock movement instabilities by analyzing historical inventory data.)
+
+## Description
+The Stock Movement Instability Detection system is designed to monitor and analyze inventory movement using historical data. It identifies abnormal patterns that may indicate theft, misplacement, or operational anomalies. By applying time-series forecasting and anomaly detection algorithms, it generates real-time alerts and visualizations to help warehouse staff quickly investigate and resolve issues, ensuring inventory accuracy and improving safety.
+
+## Features
+Real-time detection of abnormal stock movements.
+
+Uses historical inventory data for predictive modeling and baseline generation.
+
+Configurable threshold-based alerts for deviations in inbound/outbound patterns.
+
+Visual mapping of anomalies on digital warehouse layouts.
+
+Automated notifications to relevant personnel via multiple channels (email/SMS).
+
+## Technologies and Dependencies
+
+### Frontend
+Matplotlib: For plotting historical vs. forecasted trends and visualizing anomalies.
+Custom dashboard (planned): Displays warehouse maps with highlighted alert zones.
+
+### Backend
+Python: Core language for data analysis, forecasting, and backend logic.
+Facebook Prophet: Time-series forecasting library used to predict normal stock movement trends.
+Custom Anomaly Detection Algorithms: Based on configurable percentage deviations from forecasted values.
+
+### Services
+AWS Lambda: For real-time processing of stock data and triggering alerts.
+Twilio: For sending immediate alerts to warehouse staff via SMS or email.
+
+### Libraries
+Pandas: For data manipulation, aggregation, and transformation of historical records.
+NumPy: Used in statistical operations and threshold computations.
+Flask: API handling and communication between components.
+Scikit-learn (optional): For additional anomaly detection techniques if integrated.

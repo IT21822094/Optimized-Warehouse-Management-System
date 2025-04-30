@@ -68,7 +68,8 @@ AI-powered analysis for quick and accurate fire detection
 
 ## Component Diagram
 
-![Blank board (2)](https://github.com/user-attachments/assets/e45c6435-3d19-41ba-8119-94ff5e933d9a)
+![Blank board (3)](https://github.com/user-attachments/assets/edd2561e-a69e-4b33-82ed-285f584a483c)
+
 
 ## Technologies and Dependencies
 ### Frontend

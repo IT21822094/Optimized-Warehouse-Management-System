@@ -60,26 +60,26 @@ Integration with warehouse layouts to highlight the affected areas.
 AI-powered analysis for quick and accurate fire detection
 
 ## Technologies and Dependencies
-#### Frontend
+### Frontend
 OpenCV: Used for real-time image processing and visualization of fire detection.
 
 Matplotlib: For visualizing detected fire locations and severity levels.
 
-#### Backend
+### Backend
 Python: Core language for AI/ML processing, model training, and running real-time fire detection algorithms.
 
 PyTorch: Framework for training deep learning models for fire detection using computer vision.
 
 YOLOv8: Deep learning model for fire detection and object identification in images.
 
-#### Services
+### Services
 Google Cloud Vision API: Used for real-time image recognition and feature extraction.
 
 AWS Lambda: Cloud service for scalable processing and managing real-time alerts.
 
 Twilio: For sending real-time notifications (SMS or email) to safety personnel upon fire detection.
 
-#### Libraries
+### Libraries
 NumPy: Efficient numerical operations for image data processing.
 
 Pandas: Data manipulation and analysis for handling historical data or logs related to fire incidents.

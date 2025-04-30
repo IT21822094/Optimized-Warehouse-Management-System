@@ -124,6 +124,7 @@ architecture supports integration with warehouse layout databases.
 NumPy: For numerical computations in volume calculations and placement algorithms.
 Matplotlib: For real-time and animated 2D visualizations of the storage arrangement.
 Pandas: For managing product data and CBM information during arrangement decisions.
+
 ------------------------------------------------------------------------------------------------
 ### IT21079672 | Palihena P.D.M.P (Order picking route optimization)
 

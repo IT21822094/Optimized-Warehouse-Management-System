@@ -59,6 +59,10 @@ Integration with warehouse layouts to highlight the affected areas.
 
 AI-powered analysis for quick and accurate fire detection
 
+## Component Diagram
+
+![Blank board (2)](https://github.com/user-attachments/assets/e45c6435-3d19-41ba-8119-94ff5e933d9a)
+
 ## Technologies and Dependencies
 ### Frontend
 OpenCV: Used for real-time image processing and visualization of fire detection.

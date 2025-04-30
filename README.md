@@ -89,3 +89,36 @@ Torch: AI model deployment for fire detection and severity classification.
 Albumentations: Advanced data augmentation library for enhancing image data used in model training.
 
 Flask: Used for API management to integrate the backend and trigger real-time alerts.
+
+### IT21822780 | Abeydeera A A A S (maximize space utilization.)
+
+## Description
+The Container Space Optimization module is designed to intelligently arrange warehouse products to maximize the use of available volume (CBM). By dynamically selecting the best storage locations and visualizing product placement, it reduces space wastage, enhances accessibility, and improves operational efficiency. This component plays a vital role in minimizing operational costs and supporting smarter warehouse management through AI-based decisions.
+
+## Features
+Dynamic product arrangement based on CBM analysis.
+
+Real-time 2D visualization of product storage layouts.
+
+Custom best-fit algorithm to reduce unused space in racks.
+
+Systematic placement strategy to improve accessibility and retrieval efficiency.
+
+Intelligent vertical and horizontal space utilization analysis.
+
+## Technologies and Dependencies
+
+### Frontend
+Matplotlib: Used for visualizing the optimized product placement within warehouse racks.
+
+### Backend
+Python: Core language for implementing algorithms and logic behind space optimization.
+Custom Best-Fit Algorithm: Developed in Python to calculate optimal arrangement of products in constrained spaces.
+
+### Services
+architecture supports integration with warehouse layout databases.
+
+### Libraries
+NumPy: For numerical computations in volume calculations and placement algorithms.
+Matplotlib: For real-time and animated 2D visualizations of the storage arrangement.
+Pandas: For managing product data and CBM information during arrangement decisions.

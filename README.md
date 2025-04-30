@@ -25,11 +25,19 @@ leading to undetected inventory issues ?
 # Technologies and dependencies
 
 Python
+
 Matplotlib
+
 OR-Tools
+
 YOLOv8
+
 PyTorch
+
 OpenCV
+
 AWS Lambda
+
 Google OR
+
 PostgreSQL

@@ -23,9 +23,10 @@ problems
 which address sudden movements in stock,
 leading to undetected inventory issues 
 
-System Diagram
+# System Diagram
 
-![Uploading Blank diagram (3).png…]()
+![Blank diagram (3)](https://github.com/user-attachments/assets/d3ad61a2-0429-490c-b182-58b47bcdcf1a)
+
 
 
 # Technologies and dependencies

@@ -6,9 +6,8 @@ The Optimized Warehouse Management System is designed to revolutionize warehouse
 # Git repo link
 https://github.com/IT21822094/Optimized-Warehouse-Management-System
 # Research problem
-• Limited Fire Detection: How can we provide
-real-time fire alerts near critical areas like racks,
-hindering rapid response 
+• Limited Fire Detection(Vision-Based Fire Detection): How can we leverage existing cameras with 
+AI to detect early-stage fires, assess risk, and predict spread in warehouses for faster response
 
 • Inefficient Space Utilization: Lack of intelligent
 systems for dynamically optimizing warehouse
@@ -25,7 +24,7 @@ leading to undetected inventory issues
 
 # System Diagram
 
-![Blank diagram (4)](https://github.com/user-attachments/assets/e8b816f9-91e1-474c-855d-6dc10689d2c2)
+![Blank diagram (4)](<img width="3520" height="2343" alt="Blank diagram" src="https://github.com/user-attachments/assets/dbc5ec10-e897-4730-9ef4-8f63b8f2667f" />)
 
 
 
@@ -53,22 +52,33 @@ PostgreSQL
 ### IT21822094 | P.A.S.Tharana (Fire detection using computer vision and AI)
 
 ## Description
-The Fire Detection System leverages AI-driven computer vision to detect fires in real-time, assess their severity based on proximity to critical areas (such as racks or flammable materials), and provide immediate alerts. The system integrates with a warehouse environment to enhance fire safety by enabling quicker responses and minimizing potential damage.
+This system uses computer vision and deep learning to detect and monitor fires in warehouses using only CCTV cameras. It identifies fire in real time, measures the fire's size, checks how close it is to shelves or assets, and predicts how it might spread. It gives early alerts and helps workers take quick, safe action—without needing extra sensors or expensive hardware.
+
 
 ## Features
-Real-time fire detection using computer vision.
+ Camera-Only Operation – Uses existing CCTV cameras without extra sensors
 
-Severity assessment based on the fire's proximity to critical zones.
+ Real-Time Fire Detection – Identifies fire and smoke instantly using AI
 
-Instant alerts to safety personnel regarding fire location and severity.
+ Fire Size Classification – Categorizes fire as small, medium, or large
 
-Integration with warehouse layouts to highlight the affected areas.
+ Shelf Proximity Detection – Detects shelves and calculates their distance from fire
 
-AI-powered analysis for quick and accurate fire detection
+ Fire Spread Prediction – Estimates the direction of fire movement using video analysis
+
+ Instant Alerts – Sends sound and visual warnings during fire events
+
+ Live Dashboard – Displays fire location, size, and risk zones in real time
+
+ Data Logging – Records fire events and system responses for review
+
+ Low-Cost Deployment – No need for new hardware; quick and easy setup
+
+ Scalable Design – Can monitor small or large warehouses efficiently
 
 ## Component Diagram
 
-![Blank board (3)](https://github.com/user-attachments/assets/edd2561e-a69e-4b33-82ed-285f584a483c)
+![Blank board (3)](![Blank board](https://github.com/user-attachments/assets/4b4ffcc4-c08a-49e5-a43a-80e6ec0aa417))
 
 
 ## Technologies and Dependencies

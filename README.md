@@ -79,7 +79,7 @@ This system uses computer vision and deep learning to detect and monitor fires i
 
 ## Component Diagram
 
-(![Blank board](https://github.com/user-attachments/assets/4b4ffcc4-c08a-49e5-a43a-80e6ec0aa417))
+![Blank board](https://github.com/user-attachments/assets/4b4ffcc4-c08a-49e5-a43a-80e6ec0aa417)
 
 
 ## Technologies and Dependencies

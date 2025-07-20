@@ -53,7 +53,7 @@ PostgreSQL
 ### IT21822094 | P.A.S.Tharana (Fire detection using computer vision and AI)
 
 ## Description
-This system uses computer vision and deep learning to detect and monitor fires in warehouses using only CCTV cameras. It identifies fire in real time, measures the fire's size, checks how close it is to shelves or assets, and predicts how it might spread. It gives early alerts and helps workers take quick, safe action—without needing extra sensors or expensive hardware.
+This system uses computer vision and deep learning to detect and monitor fires in warehouses using only CCTV cameras. It identifies fire in real time, measures the fire's size, checks how close it is to shelves or assets, and predicts how it might spread. It gives early alerts and helps workers take quick, safe action without needing extra sensors or expensive hardware.
 
 
 ## Features

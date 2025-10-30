@@ -50,8 +50,7 @@ Google OR
 PostgreSQL
 # Individual contribution
 
-### IT21822094 | P.A.S.Tharana (Fire detection using computer vision and AI)
-
+### IT21822094 | P.A.S.Tharana (Vision-Based Fire Detection System Using AI and IoT)
 ## Description
 This enhanced fire detection system integrates computer vision, AI, and IoT hardware to provide an intelligent, real-time fire monitoring solution for warehouses. Using only CCTV cameras and a low-cost IoT alert system, the system detects and monitors fires or smoke instantly.
 It classifies the fire’s severity, determines its proximity to shelves or assets, predicts fire spread direction, and triggers visual and audio alerts using LEDs and buzzers. The solution is fully scalable, cost-efficient, and eliminates the need for expensive fire sensors or cameras.

@@ -53,30 +53,40 @@ PostgreSQL
 ### IT21822094 | P.A.S.Tharana (Fire detection using computer vision and AI)
 
 ## Description
-This system uses computer vision and deep learning to detect and monitor fires in warehouses using only CCTV cameras. It identifies fire in real time, measures the fire's size, checks how close it is to shelves or assets, and predicts how it might spread. It gives early alerts and helps workers take quick, safe action without needing extra sensors or expensive hardware.
+This enhanced fire detection system integrates computer vision, AI, and IoT hardware to provide an intelligent, real-time fire monitoring solution for warehouses. Using only CCTV cameras and a low-cost IoT alert system, the system detects and monitors fires or smoke instantly.
+It classifies the fire’s severity, determines its proximity to shelves or assets, predicts fire spread direction, and triggers visual and audio alerts using LEDs and buzzers. The solution is fully scalable, cost-efficient, and eliminates the need for expensive fire sensors or cameras.
 
 
 ## Features
- Camera-Only Operation – Uses existing CCTV cameras without extra sensors
+Camera + IoT Integration – Combines AI-based vision detection with IoT sensors (MQ-7 smoke sensors, LEDs, buzzers) for enhanced accuracy.
 
- Real-Time Fire Detection – Identifies fire and smoke instantly using AI
+Camera-Only Operation (Optional) – Works solely on CCTV input when IoT devices are unavailable.
 
- Fire Size Classification – Categorizes fire as small, medium, or large
+Real-Time Fire & Smoke Detection – Detects fire or smoke instantly using deep learning models.
 
- Shelf Proximity Detection – Detects shelves and calculates their distance from fire
+Fire Size Classification – Categorizes fire as small, medium, or large based on detected pixel area.
 
- Fire Spread Prediction – Estimates the direction of fire movement using video analysis
+Shelf Proximity Detection – Identifies warehouse shelves and calculates the distance between fire and nearby assets.
 
- Instant Alerts – Sends sound and visual warnings during fire events
+Fire Spread Prediction – Uses motion and heat pattern analysis to estimate possible fire spread direction.
 
- Live Dashboard – Displays fire location, size, and risk zones in real time
+IoT Alert System –
 
- Data Logging – Records fire events and system responses for review
+MQ-7 Smoke Sensors: Detect smoke concentration and verify fire presence.
 
- Low-Cost Deployment – No need for new hardware; quick and easy setup
+LED Indicators: Eight LEDs arranged directionally (up, down, left, right) show where fire or smoke is detected.
 
- Scalable Design – Can monitor small or large warehouses efficiently
+Buzzers: Four buzzers trigger loud alerts corresponding to fire zones.
 
+Instant Alerts – Sends sound, light, and mobile notifications via Twilio when a fire event is detected.
+
+Live Dashboard – Displays real-time video feed with detected fire zones, risk levels, and IoT sensor data.
+
+Data Logging – Records fire incidents, alerts, and sensor readings for later analysis.
+
+Low-Cost Deployment – Uses existing CCTV cameras and low-cost IoT modules.
+
+Scalable Design – Can monitor small storage rooms or large industrial warehouses.
 ## Component Diagram
 
 ![Blank board](https://github.com/user-attachments/assets/4b4ffcc4-c08a-49e5-a43a-80e6ec0aa417)

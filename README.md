@@ -122,7 +122,7 @@ Albumentations: Advanced data augmentation library for enhancing image data used
 Flask: Used for API management to integrate the backend and trigger real-time alerts.
 
 ### IoT and Hardware
-Arduino / Raspberry Pi – Microcontroller for IoT integration.
+Arduino  – Microcontroller for IoT integration.
 
 MQ-7 Smoke Sensors – Detect smoke and verify fire presence.
 

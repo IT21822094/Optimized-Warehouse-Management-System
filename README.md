@@ -72,7 +72,7 @@ Fire Spread Prediction – Uses motion and heat pattern analysis to estimate pos
 
 IoT Alert System –
 
-MQ-7 Smoke Sensors: Detect smoke concentration and verify fire presence.
+    MQ-7 Smoke Sensors: Detect smoke concentration and verify fire presence.
 
 LED Indicators: Eight LEDs arranged directionally (up, down, left, right) show where fire or smoke is detected.
 

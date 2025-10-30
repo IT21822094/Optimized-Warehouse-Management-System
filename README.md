@@ -70,9 +70,7 @@ Shelf Proximity Detection – Identifies warehouse shelves and calculates the di
 
 Fire Spread Prediction – Uses motion and heat pattern analysis to estimate possible fire spread direction.
 
-IoT Alert System –
-
-    MQ-7 Smoke Sensors: Detect smoke concentration and verify fire presence.
+MQ-7 Smoke Sensors: Detect smoke concentration and verify fire presence.
 
 LED Indicators: Eight LEDs arranged directionally (up, down, left, right) show where fire or smoke is detected.
 
@@ -123,6 +121,14 @@ Albumentations: Advanced data augmentation library for enhancing image data used
 
 Flask: Used for API management to integrate the backend and trigger real-time alerts.
 
+### IoT and Hardware
+Arduino / Raspberry Pi – Microcontroller for IoT integration.
+
+MQ-7 Smoke Sensors – Detect smoke and verify fire presence.
+
+LED Indicators (x8) – Indicate fire/smoke direction (up, down, left, right).
+
+Buzzers (x4) – Emit audible alerts based on fire location.
 
 ---------------------------------------------------------------------------------------------------------------------
 ### IT21822780 | Abeydeera A A A S (maximize space utilization.)

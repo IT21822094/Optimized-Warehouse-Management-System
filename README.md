@@ -86,7 +86,8 @@ Low-Cost Deployment – Uses existing CCTV cameras and low-cost IoT modules.
 Scalable Design – Can monitor small storage rooms or large industrial warehouses.
 ## Component Diagram
 
-<img width="2696" height="1553" alt="Blank board" src="https://github.com/user-attachments/assets/ec6ecdbd-bd53-4eef-b9d6-fcf3add12f66" />
+<img width="2696" height="1553" alt="Blank board (1)" src="https://github.com/user-attachments/assets/469a32bf-8d55-4fac-837d-c54e93940921" />
+
 
 
 

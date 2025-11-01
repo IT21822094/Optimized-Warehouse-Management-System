@@ -1,0 +1,9 @@
+{
+  "FINISHED GOODS": {
+    "warehouse": "Warehouse 1",
+    "history_start": "2024-01-07 00:00:00",
+    "history_end": "2024-10-27 00:00:00",
+    "cap_outbound": 683.8000000000001,
+    "cap_inbound": 806.0
+  }
+}

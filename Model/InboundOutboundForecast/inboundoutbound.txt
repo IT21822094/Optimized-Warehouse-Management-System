@@ -1,0 +1,15 @@
+predict_forecast_category :
+
+loads the models that are defined in the ForecastModels directory specify only the name that is accepted by the function
+
+this function starts with generating future dates for the forecast here you can define time periods in weeks. like 
+for four weeks, six weeks so on.
+
+before training the models we get the data range to a specific range to avoid any noise within the dataset (skewed curves) so when we predicting from the trained model, we have to convert it back to the actual value. 
+
+then making a new dataset with future data that was previously generated and combined them with inbound and outbound predicted values.
+
+applies rolling average to smooth the curves, why ? it easier to read than reading the trend with more noise.
+trend become more noise if there were no rolling windows applied.
+
+then calculating the data points that are not going with the predicted values a threshold will be applied to calculate the values.
